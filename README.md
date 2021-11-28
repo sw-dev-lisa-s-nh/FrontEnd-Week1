@@ -1,4 +1,4 @@
-# FrontEnd-Week1
+# FrontEnd-Week1 -- HTML
 
 ## Promineo Tech FrontEnd Software Development Coding Bootcamp 
 ## Week 7 of 12 (Front End Technologies is weeks 7 - 12)
